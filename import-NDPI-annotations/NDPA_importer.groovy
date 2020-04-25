@@ -7,6 +7,7 @@
 // IMPORTANT! Needs Groovy-XML.jar extension to be installed in QuPath versions up to and including 0.2.0-m10 as described in 
 // https://gist.github.com/DanaCase/9cfc23912fee48e437af03f97763d78e#gistcomment-2330062
 // Alternatively, you can of course always rebuild QuPath to include e.g. groovy-full.
+// Starting with qupath commit 9bc562f95402a570f4361e152e3b1800855cd15d and in the upcoming version 0.2.0-m11 groovy-xml is already included in qupath.
 
 // Script known to work in QuPath 0.2.0-m10 (with groovy-all included in build).
 
